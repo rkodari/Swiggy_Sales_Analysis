@@ -15,4 +15,11 @@ Power BI dashboard analyzing Swiggy sales performance with key insights on reven
 - How does restaurant performance vary based on ratings and revenue?
 ## Dashboard Interaction
 - <a href="https://github.com/rkodari/Swiggy_Sales_Analysis/blob/main/Swiggy_DashBoard_page-0001.jpg">View Dashboard<a>
-
+## Process
+- Collected and verified the dataset for accuracy and consistency.
+- Identified and handled missing values and duplicate records.
+- Cleaned and standardized data fields such as dates and categories.
+- Created relationships between tables and built a proper data model.
+- Developed DAX measures for KPIs like revenue, orders, and average order value.
+- Designed interactive visuals to analyze restaurant performance, ratings, and delivery metrics.
+- Validated results to ensure accurate and reliable reporting.
