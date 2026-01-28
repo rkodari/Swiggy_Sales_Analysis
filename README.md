@@ -25,4 +25,11 @@ Power BI dashboard analyzing Swiggy sales performance with key insights on reven
 - Validated results to ensure accurate and reliable reporting.
 ## Dashboard Preview
 ![Swiggy Power BI Dashboard](https://github.com/rkodari/Swiggy_Sales_Analysis/blob/main/Dashboard%20ScreenShot.png)
+## Project Insights
+- Generated 433,086 in total revenue from 1,224 orders
+- Average Order Value: 353.83, indicating mid-range customer spending
+- Revenue is highly concentrated among top-performing restaurants
+- Several restaurants show low revenue contribution, indicating underperformance
+- Average customer rating above 4.0, reflecting strong satisfaction
+- Average delivery time: 36 minutes, highlighting scope for improvement
 
