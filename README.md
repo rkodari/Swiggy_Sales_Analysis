@@ -24,3 +24,5 @@ Power BI dashboard analyzing Swiggy sales performance with key insights on reven
 - Designed interactive visuals to analyze restaurant performance, ratings, and delivery metrics.
 - Validated results to ensure accurate and reliable reporting.
 ## Dashboard
+(https://github.com/rkodari/Swiggy_Sales_Analysis/blob/main/Dashboard%20ScreenShot.png)
+
