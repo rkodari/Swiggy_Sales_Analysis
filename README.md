@@ -13,7 +13,6 @@ Power BI dashboard analyzing Swiggy sales performance with key insights on reven
 - What is the overall average customer rating?
 - How is revenue distributed across restaurants?
 - How does restaurant performance vary based on ratings and revenue?
-
-  ## Dashboard Interaction
-  <a href="https://github.com/rkodari/Swiggy_Sales_Analysis/blob/main/Swiggy_DashBoard_page-0001.jpg">View Dashboard<a>
+## Dashboard Interaction
+- <a href="https://github.com/rkodari/Swiggy_Sales_Analysis/blob/main/Swiggy_DashBoard_page-0001.jpg">View Dashboard<a>
 
