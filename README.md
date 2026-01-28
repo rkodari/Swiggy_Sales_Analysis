@@ -32,4 +32,5 @@ Power BI dashboard analyzing Swiggy sales performance with key insights on reven
 - Several restaurants show low revenue contribution, indicating underperformance
 - Average customer rating above 4.0, reflecting strong satisfaction
 - Average delivery time: 36 minutes, highlighting scope for improvement
-
+## Conclusion
+- This dashboard provides a consolidated view of Swiggy’s sales performance, customer behavior, restaurant contribution, and delivery efficiency. The insights support data-driven decision-making to optimize operations, improve restaurant performance, and enhance overall business outcomes.
